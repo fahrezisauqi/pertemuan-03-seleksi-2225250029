@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pertemuan 03 Seleksi Python
 
 **Nama:** Fahrezi sauqi alghani
