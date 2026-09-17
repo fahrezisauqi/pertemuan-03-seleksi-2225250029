@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 # Pertemuan 03 Seleksi Python
 
-**Nama:** Farid Ardiansah
-**NIM:** 2225250125
+**Nama:** Fahrezi sauqi alghani
+**NIM:** 2225250029
 **Kelas:** 3-E
 
 ## Tujuan
