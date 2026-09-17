@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pertemuan 03 Seleksi Python
 
 **Nama:** Farid Ardiansah
@@ -38,3 +39,6 @@ python3 tugas/analisis_persamaan_kuadrat.py
 ## Refleksi
 
 Kesalahan logika yang ditemukan adalah lupa memberikan indentasi pada kode setelah `if` dan `else`. Dalam Python, indentasi sangat penting karena menunjukkan bagian kode yang termasuk dalam suatu kondisi. Kesalahan tersebut diperbaiki dengan memberikan indentasi pada setiap perintah yang berada di dalam `if`, `elif`, dan `else`. Setelah diperbaiki, program dapat berjalan dan memberikan keluaran sesuai dengan kondisi diskriminan. 
+=======
+# pertemuan-03-seleksi-2225250029
+>>>>>>> 71154a276fa8af160ed80bdf3d00b1801e0cd79a
